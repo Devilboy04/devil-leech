@@ -1,7 +1,7 @@
 <p align="center"> <a href="https://github.com/XcodersHub/TorrentLeechX" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="TorrentLeechX" width="860" height="85"/>
 
-# for support join [here](https://telegram.dog/XCODERSHUB)
-# working example group [Leech Here](https://t.me/joinchat/ixcxUlpCInJiNmNl)
+# for support join [here](https://telegram.dog/IamWarisAliOFFICIAL)
+# working example group [Leech Here](https://t.me/IamWarisAliOFFICIAL)
 # For Any Issues/Imrovements or Discussions [go here](https://github.com/XcodersHub/TorrentLeech-Gdrive/issues) or [here](https://github.com/XcodersHub/TorrentLeech-Gdrive/discussions) 
 # Please Leave A star And Fork this Repo and Follow my Github acc....
 # 🤖Telegram Torrent and Direct links Leecher 🔥
@@ -19,7 +19,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/XcodersHub/TorrentLeechX?color=white&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/XcodersHub/TorrentLeechX?color=blue&style=for-the-badge)
 
-<p align="center"> <a href="https://t.me/XcodersHub" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
+<p align="center"> <a href="https://t.me/IamWarisAliOFFICIAL" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
 
 ---
 
@@ -219,7 +219,6 @@ client_secret =
 
 
 ## Credits, and Thanks to
-* [XcodersHub](https://github.com/XcodersHub) for Modding 🙄
 * [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
