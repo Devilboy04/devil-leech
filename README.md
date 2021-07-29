@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/XcodersHub/TorrentLeechX" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="TorrentLeechX" width="860" height="85"/>
+
 
 # for support join [here](https://telegram.dog/IamWarisAliOFFICIAL)
 # working example group [Leech Here](https://t.me/IamWarisAliOFFICIAL)
